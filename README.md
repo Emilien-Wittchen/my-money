@@ -3,3 +3,6 @@
 Expense tracker app
 
 You can preview this site [here](https://mymoney-f9e4d.web.app/).
+
+email: test@test.com
+password: Test123
